@@ -1,0 +1,26 @@
+
+  p {
+        color: #00ff40;
+        background-color: #14035f;
+    }
+    
+    /*changes color of visited link*/
+    a:visited{
+        color: blueviolet;
+    }
+    
+    a:hover{
+        color: khaki;
+    }
+    
+    body{
+        background-color: tan;
+        background-image: url("../images/Syracuse\ Orange\ mascot\ Otto\ is\ ready\ for\ action.jpg");
+        background-repeat: no-repeat;
+    }
+    
+    .second{
+        border: 4px solid greenyellow;
+        padding: 17px;
+        margin: 25px;
+    }
