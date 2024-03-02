@@ -1,11 +1,11 @@
-body{ color: #03110d; background-color: #e72b1d}
+body{ color: #03110d; background-color: #ce0e00}
 
 p{color: #0f1811}
 
-a{color: #cfa636}
+a{color: #2e2407}
 
-h1{color: #0671eb}
+h1{color: #eef0f3}
 
-nav a{color: #37c524; background-color: #b81cdf; padding: 10px; margin-bottom: 30px}
+nav a{color: #151d14; background-color: #600277; padding: 10px; margin-bottom: 30px}
 
-nav a:hover {background-color: #5843ce;}
+nav a:hover {background-color: #c72929;}
