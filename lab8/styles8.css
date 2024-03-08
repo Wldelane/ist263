@@ -12,9 +12,9 @@ nav{color: #ff0000; background-color: #1170ff; padding: 5px; margin-bottom: 30px
 
 nav a:hover {background-color: #1a1916;}
 
-.row1{background-color: white; display:flex; margin: 10px; padding: 20px;}
+.row1{background-color: rgb(17, 16, 16); display:flex; margin: 10px; padding: 20px;}
 
-.row2{background-color: white; display:flex; margin: 10px}
+.row2{background-color: rgb(12, 12, 12); display:flex; margin: 10px}
 
 .address{display:flex; margin: 10px}
 
